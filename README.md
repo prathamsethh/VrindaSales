@@ -23,7 +23,7 @@ For the Annual Sales Report of Vrinda Store 2022, we collected our data from a c
 - Merge all pivot tables into one dashboard and apply slicer to make a interactive dashboard 
 ## Dataset: https://www.kaggle.com/datasets/anshika2301/vrinda-store-data-analysis?select=Store+Data.xlsx
 ## Dashboard:
-
+(https://github.com/prathamsethh/VrindaSales/assets/98818485/e37b4a74-aa94-40dc-8bd2-a0628e73a20f)
 
 ## Project Insight:
 1. Women customers are more likely to buy products compared to men (~65%).
